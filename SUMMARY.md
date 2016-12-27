@@ -14,7 +14,7 @@
     * [获取某一订单详情](app/interface/order-detail.md)
     * [获取订单列表](app/interface/order-lists.md)
     * [获取号码信息](app/interface/phone-data.md)
-    * [通道实时消息推送](app/interface/channel-notify.md)
+    * [单一套餐实时消息推送](app/interface/channel-notify.md)
 * 错误编码
     * [errcode状态码](app/error/errorcode.md)
 * 样例
